@@ -12,6 +12,7 @@ const createWindow = () => {
       minWidth: 210,
       maxWidth: 210,
       frame: false, // Remove hidde default frame
+      icon: __dirname + '/assets/icons/win/ico.ico',
       webPreferences: {
         nodeIntegration: true,
         contextIsolation: true,

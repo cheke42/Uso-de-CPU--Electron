@@ -40,3 +40,7 @@ Este comando ejecuta el script configurado previamente en el package.json que re
 ```
 
 El ejecutable quedará dentro de la carpeta _"realse-builds\NOMBRE_APLICACION\NOMBRE_APLICACION.exe"_
+
+## Captura de pantalla:
+
+![Alt text](/assets/screenshot.png?raw=true "Captura")
